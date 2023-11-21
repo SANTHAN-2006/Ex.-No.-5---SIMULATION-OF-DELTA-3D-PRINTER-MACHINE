@@ -1,6 +1,4 @@
 # Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
-
-### DATE: 
 ## AIM:
 ### To simulate the construction of delta 3D printer and to get in-depth knowledge of mechatronics of delta 3D printer.
 
@@ -59,9 +57,6 @@ A display screen that allows the user to interact with the printer, typically us
 
 ### Playing with the axes:
 ![image](https://github.com/SANTHAN-2006/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/80164014/a3f9bd2d-bb38-4954-aabc-4bcbf0d639fd)
-
-### Name: KARNALA SANTHAN KUMAR
-### Register Number: 23004568
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
